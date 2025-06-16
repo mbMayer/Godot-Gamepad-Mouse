@@ -12,9 +12,13 @@ Customize the cursor appearance and adjust the movement speed to perfectly suit 
 <br>
 <h2>Features </h2>
 - Cursor image (normal, pressed) 128x128 (256x256 max)
+<br>
 - Cursor speed
+<br>
 - Cursor size changes with Window size\stretch scale
+<br>
 - If get action from the keyboard - the cursor changes to default
+<br>
 - Works with InputManager's and on-screen Keyboard's
 
 <br>
