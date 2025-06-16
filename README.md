@@ -22,4 +22,4 @@ Customize the cursor appearance and adjust the movement speed to perfectly suit 
 - Works with InputManager's and on-screen Keyboard's
 
 <br>
-<img src="https://github.com/mbMayer/Godot-Click-Through-Transparent-Window-CSharp/blob/main/transparentshow.gif"/></h1>
+<img src="https://github.com/mbMayer/Godot-Gamepad-Mouse/blob/main/godotgamepadmouse.gif"/></h1>
