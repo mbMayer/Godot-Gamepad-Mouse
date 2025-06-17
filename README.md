@@ -10,6 +10,7 @@ Customize the cursor appearance and adjust the movement speed to perfectly suit 
 <br>
 - Remap Input if needed
 <br>
+- Play around with action mode for Buttons (in my case action mode - Button Release)
 <h2>Features </h2>
 - Cursor image (normal, pressed) 128x128 (256x256 max)
 <br>
